@@ -34,8 +34,18 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 ---
 
 ## Screenshot Aplikasi
-!<p align="center">
+!<p align="left">
   <img src="Screenshots/Halaman%20Login.jpg" width="350" title="Halaman Login">
   <br>
   <em>Halaman Login </em>
+</p>
+!<p align="center">
+  <img src="Screenshots/Halaman%20List.jpg" width="350" title="Halaman Login">
+  <br>
+  <em>Halaman List </em>
+</p>
+!<p align="right">
+  <img src="Screenshots/Halaman%20Add.jpg" width="350" title="Halaman Login">
+  <br>
+  <em>Halaman Add </em>
 </p>
