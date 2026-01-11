@@ -12,7 +12,7 @@ SmartBudget adalah sebuah aplikasi dompet digital yang berfungsi untuk membantu 
 
 ---
 
-Tema Aplikasi + Aplikasi Rujukan 
+## Tema Aplikasi + Aplikasi Rujukan 
 
 Aplikasi SmartBudget ini merupakan aplikasi dompet digital yang berfungsi untuk membantu pengguna untuk memnyimpan dan mengedit transaksi-transaksi yang terjadi di dalam kehidupran sehari-hari mereka. Ini sangat membantu bagi seseorang yang mempunyai masalah mengingat semua pemasukan dan pengeluaran mereka dalam kehidupan sehari-hari. Aplikasi ini menggunakan RealTime Database dari Firebase untuk membantu dalam melacak dan menyimpan semua transaksi-transaksi user. Aplikasi ini juga sangat mudah digunakan karena UI/UX nya mengikuti filosofi desain yang bersih dan kontras tinggi dengan fokus khusus pada kejelasan keuangan. Aplikasi ini menghindari kekacauan agar pengguna dapat fokus sepenuhnya pada saldo dan transaksi mereka.
 
@@ -83,7 +83,7 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 
 ---
 
-## Cara Menjalakan Aplikasi
+## Cara Menjalankan Aplikasi
 * ✔️ **Create (Input):** Menambahkan sebuah transaksi yang mengandung tanggal, jam, jumlah transaksi, serta deskripsi transaksi.
 * Pertama, silahkan download atau clone repository yang ada di dalam halaman Github ini dengan menggunakan kode 
 
