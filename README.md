@@ -85,8 +85,9 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 
 ## Cara Menjalankan Aplikasi
 * ✔️ **Create (Input):** Menambahkan sebuah transaksi yang mengandung tanggal, jam, jumlah transaksi, serta deskripsi transaksi.
-* Pertama, silahkan download atau clone repository yang ada di dalam halaman Github ini dengan menggunakan kode ```bash
-    git clone https://github.com/Sy4fril/MaTask.git ](https://github.com/RichyDaCoder25/SmartBudget.git)
+* Pertama, silahkan download atau clone repository yang ada di dalam halaman Github ini dengan menggunakan kode
+  ```bash
+    https://github.com/RichyDaCoder25/SmartBudget.git
     ```
 * Kedua, silahkan run aplikasi nya langsung atau dengan menggunakan aplikasi seperti Android Studio
 * Ketiga, silahkan login menggunakan email/password atau dengan menggunakan akun Google
