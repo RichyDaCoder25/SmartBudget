@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863450042338",
+    "project_id": "projekuasam",
+    "storage_bucket": "projekuasam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863450042338:android:971a0c22dec3bc58cf73bb",
+        "android_client_info": {
+          "package_name": "com.example.projekuasam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiY-ER70Nq0OEROvXWu_gASB2BQQYpw4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

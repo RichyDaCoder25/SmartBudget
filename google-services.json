@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863450042338",
+    "firebase_url": "https://projekuasam-default-rtdb.firebaseio.com",
+    "project_id": "projekuasam",
+    "storage_bucket": "projekuasam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863450042338:android:971a0c22dec3bc58cf73bb",
+        "android_client_info": {
+          "package_name": "com.example.projekuasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863450042338-v537tajd0tooskkh1jj5pc4uu49e08bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekuasam",
+            "certificate_hash": "b969822662dd04098b9434a5f6a03e809515ff25"
+          }
+        },
+        {
+          "client_id": "863450042338-59hk7vqtm8aoci1fibijf95moseo5ol2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiY-ER70Nq0OEROvXWu_gASB2BQQYpw4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863450042338-59hk7vqtm8aoci1fibijf95moseo5ol2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
