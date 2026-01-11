@@ -34,4 +34,4 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 ---
 
 ## Screenshot Aplikasi
-![Halaman LOGIN](Screenshot/Halaman%20Login.jpg)
+![Halaman LOGIN](Screenshots/Halaman%20Login.jpg)
