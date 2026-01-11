@@ -85,5 +85,12 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 
 ## Cara Menjalankan Aplikasi
 * ✔️ **Create (Input):** Menambahkan sebuah transaksi yang mengandung tanggal, jam, jumlah transaksi, serta deskripsi transaksi.
-* Pertama, silahkan download atau clone repository yang ada di dalam halaman Github ini dengan menggunakan kode 
+* Pertama, silahkan download atau clone repository yang ada di dalam halaman Github ini dengan menggunakan kode ```java
+git clone https://github.com/RichyDaCoder25/SmartBudget.git
+* Kedua, silahkan run aplikasi nya langsung atau dengan menggunakan aplikasi seperti Android Studio
+* Ketiga, silahkan login menggunakan email/password atau dengan menggunakan akun Google
+* Setelah itu, anda berhasil login ke dalam aplikasi. Kita dapat menambahkan sebuah transaksi dengan mengklik tombol Plus yang ada di kiri bawah layar. Setelah itu kita dapat menambahkan sebuah transaksi dengan tanggal, jam, jumlah transaksi, dan deskripsi.
+* Selain itu, ada juga fitur-fitur seperti Add dan Edit di mana kita hanya perlu klik salah satu transaksi yang ingin kita edit/hapus.
+* Nanti hasil penjumlahan dan pengurangan semua transaksi akan muncul di paling atas layar.
+* Jika kita ingin logout dari aplikasi, kita hanya perlu klik Settings di Navigavtion menu di bawah layar dan klik logout.
 
