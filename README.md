@@ -61,12 +61,12 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
       <em>Halaman Edit Data</em>
     </td>
     <td align="center">
-      <img src="Screenshots/Halaman20%Delete.jpg" width="250">
+      <img src="Screenshots/Halaman%20Delete.jpg" width="250">
       <br>
       <em>Halaman Delete Data</em>
     </td>
     <td align="center">
-      <img src="Screenshots/Halaman20%Notifikasi.jpg" width="250">
+      <img src="Screenshots/Halaman%20Notifikasi.jpg" width="250">
       <br>
       <em>Contoh muncul Notifikasi</em>
     </td>
