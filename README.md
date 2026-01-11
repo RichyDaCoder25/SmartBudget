@@ -26,5 +26,8 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 ✔️ Notification : Notifikasi otomatis saat terjadi pembuatan, pengeditan, dan penghapusan transaksi
 
 # Screenshot Aplikasi
+! [Halaman LOGIN] (Screenshot/Halaman Login.jpg)
+
+# Screenshot Aplikasi
 
 
